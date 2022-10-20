@@ -1,6 +1,7 @@
 # dotnet-guid7
 
 适用于.net7的Uuid7生成类
+
 (Machine translation) Uuid7 generation class for .net7
 
 ## 说明
